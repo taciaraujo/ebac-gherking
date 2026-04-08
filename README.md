@@ -1,2 +1,2 @@
-# ebac-ghirking
+# ebac-gherking
 Repositório destinado ao armazenamento de exercícios do curso Engenharia de Qualidade de Software da EBAC - Exercício Gherking 
